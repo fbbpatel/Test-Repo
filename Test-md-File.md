@@ -5,4 +5,4 @@
 * Creating a new file in a local Git Repo
 * Uploading it on GitHub
 
-[CLick here for Google](http://www.google.com)
+[Click here for Google](http://www.google.com)
